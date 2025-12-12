@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - roboshop-trainee
-      userarn: arn:aws:iam::160885265516:user/suresh
+      userarn: arn:aws:iam::160885265516:user/suresh 
       username: suresh
     - groups:
       - roboshop-admin
